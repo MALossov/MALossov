@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **STM32,SpringBoot,VUE.JS**
+- 🌱 I’m currently learning **STM32,SpringBoot,VUE.JS**
+- 🤔 I’m looking for help with **STM32,SpringBoot,VUE.JS**
+- 📫 How to reach me: **malossov@163.com**
+- ⚡ Fun fact: I'm the 菜est in UESTC
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malossov&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
